@@ -635,7 +635,7 @@ margin-bottom:15px;
 text-shadow: -2.5px 0 black, 0 2.5px black, 2.5px 0 black, 0 -2.5px black;
 }
 .hero{
-background: url("../../assets/img/hero-mob.jpg") center center; rgba(255,192,203, 0.7);
+background: url("../../assets/img/hero-mob.jpg");
 }
 .hero-text h2 {
 font-size:1em;
