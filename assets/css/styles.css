@@ -136,6 +136,7 @@ text-transform:uppercase;
 letter-spacing:0.05em;
 line-height:1.1em;
 margin-bottom:15px;
+-webkit-text-stroke: 1px white;
 text-shadow: -5px 0 white, 0 5px white, 5px 0 white, 0 -5px white;
 }
 .hero-text h2 {
