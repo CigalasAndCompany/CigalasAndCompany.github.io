@@ -30,7 +30,7 @@ line-height: 1.15;
 font-size: 16px;
 }
 .background-alt {
-background: #16038f;
+background: #121212;
 margin: 0;
 padding: 0;
 border: none;
@@ -165,9 +165,11 @@ padding: 75px 5px;
 padding-left: 200px;
 border-bottom: 1px solid #dcd9d9;
 font-family: 'retro1', sans-serif;
+background: #222222;
 }
 #about h2 {
-color: #374054;
+color: #4f0099;
+text-shadow: -2px 0 #ffffff, 0 2px #ffffff, 2px 0 #ffffff, 0 -2px #fff;
 position:absolute;
 align-items: center;
 justify-content: center;
