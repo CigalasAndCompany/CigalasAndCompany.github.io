@@ -336,7 +336,7 @@ margin: 0 0 15px 0;
 .project-info p {
 color: #FFFFFF;
 text-shadow: -2px 0 #4f0099, 0 2px #4f0099, 2px 0 #4f0099, 0 -2px #4f0099;
-margin: 0 0 15px 0;
+margin: 15px;
 font-size: 1.3em;
 }
 #more-projects {
