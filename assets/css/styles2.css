@@ -296,7 +296,7 @@ position: relative;
 max-width: 900px;
 margin: 0 auto 30px auto;
 overflow: hidden;
-background: #fff;
+background: #222222;
 border-radius: 4.5px;
 border: 3px solid #949494;
 }
@@ -327,13 +327,15 @@ margin-left: 300px;
 padding: 15px
 }
 .project-info h3 {
+color: #4f0099;
+text-shadow: -2px 0 #ffffff, 0 2px #ffffff, 2px 0 #ffffff, 0 -2px #fff;
 font-size: 1.6em;
 font-weight: 300;
-color: #374054;
 margin: 0 0 15px 0;
 }
 .project-info p {
-color: #74808a;
+color: #FFFFFF;
+text-shadow: -2px 0 #4f0099, 0 2px #4f0099, 2px 0 #4f0099, 0 -2px #4f0099;
 margin: 0 0 15px 0;
 font-size: 1.3em;
 }
