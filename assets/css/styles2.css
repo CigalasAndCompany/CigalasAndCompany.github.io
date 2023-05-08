@@ -287,7 +287,8 @@ border-bottom: 1px solid #dcd9d9;
 text-align: center;
 }
 #projects h2 {
-color: #374054;
+color: #4f0099;
+text-shadow: -2px 0 #ffffff, 0 2px #ffffff, 2px 0 #ffffff, 0 -2px #fff;
 margin-bottom: 50px;
 }
 .project {
