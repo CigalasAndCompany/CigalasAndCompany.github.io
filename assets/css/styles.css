@@ -372,8 +372,12 @@ text-align: center;
 background-image: url("../../assets/img/contact_us.jpg");
 }
 #contact-me h2 {
+color: #ffffff;
+text-shadow: -2px 0 #000000, 0 2px #000000, 2px 0 #000000, 0 -2px #000000;
+font-size:50px;
+font-family: "retro1", sans-serif;
 margin: 0 0 15px 0;
-color: #fff;
+color: #f59bed;
 font-weight: 500;
 }
 #contact-me-form {
@@ -402,7 +406,7 @@ width: 105%;
 }
 #contact-me-form input:focus,#contact-me-form textarea:focus,#contact-me-form textarea:hover,#contact-me-form input:hover {
 outline: none;
-color: #b35542;
+color: #f59bed;
 }
 #contact-me-form input::-webkit-input-placeholder,#contact-me-form textarea::-webkit-input-placeholder {
 color: #f2f2f2;
